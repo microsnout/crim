@@ -1,0 +1,1 @@
+Un nouveau virus, "LoveyouSam", affecte Internet et viserait particulièrement les outils Microsoft. Il a été découvert hier et s'est rapidement propagé sur Internet. Selon des experts, le virus, qui exploite une faille habituellement bénigne du logiciel Windows, ne perturbait pas sérieusement le réseau, mais devait continuer à se propager dans la nuit de hier à aujourd'hui.
