@@ -1,0 +1,7 @@
+// CRIM Dataset
+//
+{
+	"audioExt" : ".m4a",
+	"textExt"  : ".txt",
+	"id3Title" : false
+}
